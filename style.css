@@ -226,10 +226,19 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "Designer";
+        content: "Typography";
     }
     21%, 40%{
-        content: "Editor";
+        content: "Gfx";
+    }
+    41%, 60%{
+        content: "Poster";
+    }
+    61%, 80%{
+        content: "Mv";
+    }
+    81%, 100%{
+        content: "Dan lain-lain";
     }
 }
 
